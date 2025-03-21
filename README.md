@@ -7,4 +7,6 @@ it will be similar to the traditional 2d snake game where you navigate as a snak
 
 the goal is to create a fun to play snake game in java, and be able to share it with others 
 
+I will be using javaFX for this project
+
 :D
